@@ -1,0 +1,170 @@
+@media screen
+and (max-device-width: 1279px)
+and (-webkit-min-device-pixel-ratio: 1) {
+   .section-about__description{
+      margin: 0 120px 0 0;
+   }
+
+   .section-about__layer-mask_triangle{
+      display: none;
+   }
+}
+
+@media screen
+and (max-device-width: 1149px)
+and (-webkit-min-device-pixel-ratio: 1) {
+   .main-header__menu{
+      justify-content: center;
+   }
+
+   .main-header__menu_logo{
+      margin: 0;
+
+   }
+
+   .main-header__menu-list{
+      display: none;
+   }
+
+   .main-header__button{
+      display: none;
+   }
+
+   .burger-menu{
+      display: block;
+      order: -1;
+      left: 20px;
+   }
+
+   .section-about__image-brain{
+      width: 300px;
+   }
+
+   .section-about__description-button{
+      padding: 14px 60px;
+   }
+}
+
+@media screen
+and (max-device-width: 960px)
+and (-webkit-min-device-pixel-ratio: 1) {
+   .main-header__menu_logo-img{
+      width: 200px;
+   }
+
+   .main-header__button{
+      font-size: 12px;
+   }
+
+   .main-about{
+      margin: 0 80px 90px 0;
+   }
+
+   .main-about__button{
+      font-size: 12px;
+   }
+
+   .main-footer__telephones-list{
+      padding: 0 60px;
+   }
+
+   .section-direction__list-item, 
+   .section-direction__list-item:nth-child(2){
+      padding: 0 85px;
+   }
+
+   .section-about__description{
+      margin: 0 80px 0 0;
+   }
+
+   .section-about__description-button{
+      padding: 10px 50px;
+   }
+
+   .section-about__image-brain{
+      width: 220px;
+   }
+
+}
+
+@media screen
+and (max-device-width: 767px)
+and (-webkit-min-device-pixel-ratio: 1) {
+   .section-main__layer-mask{
+      background: linear-gradient(87.68deg, rgba(255, 255, 255, 0) 9.73%, rgba(255, 255, 255, 0.9) 20.76%);
+   }
+
+   .main-header__menu_logo-img{
+      width: 150px;
+   }
+
+   .main-about__title{
+      font-size: 40px;
+      margin: 0 0 40px 0;
+   }
+
+   .section-direction{
+      padding: 46px 0 5px;
+   }
+
+   .section-direction__list{
+      display: block;
+   }
+
+   .section-direction__list-item{
+      margin: 0 0 35px 0;
+   }
+
+   .section-direction__list-item_img{
+      margin: 0 0 10px;
+   }
+
+   .main-about{
+      margin: 0 30px 0 0;
+   }
+
+   .main-footer{
+      flex-direction: column;
+      padding: 15px 0 0;
+   }
+
+   .section-about__layer-mask_triangle{
+      display: none;
+   }
+
+   .main-footer__telephones-list{
+      border: 2px solid #fff;
+      border-left: none;
+      border-right: none;
+      margin: 0 0 15px 0;
+      padding: 10px 60px;
+   }
+
+   .main-footer__address, 
+   .main-footer__e-mail{
+      margin: 0 0 15px 0;
+   }
+
+   .section-about__layer-mask{
+      padding: 50px 80px 47px 80px;
+      flex-direction: column;
+   }
+
+   .section-about__description{
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .section-about__description-title{
+      margin: 0 0 10px 0;
+
+   }
+
+   .section-about__image {
+      order: -1;
+      margin: 0 0 20px 0;
+   }
+
+}

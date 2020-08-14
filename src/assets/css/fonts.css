@@ -1,0 +1,22 @@
+@font-face{
+   font-family: "PFDinTextCondPro";
+   src: url("../fonts/DinTextCondPro/PF_Din_Text_Cond_Pro.ttf") format("truetype")
+}
+
+@font-face{
+   font-family: "HelveticaNeueCyr";
+   src: url("../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Light.eot");
+   src: url("../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Light.woff") format("woff");
+   src: url("../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Light.ttf") format("truetype");
+}
+
+@font-face{
+   font-family: "Lato";
+   src: url("../fonts/Lato/Lato-Bold.ttf") format("truetype");
+   src: url("../fonts/Lato/Lato-Regular.ttf") format("truetype");
+}
+
+@font-face{
+   font-family: "Karla";
+   src: url("../fonts/Karla/Karla-Regular.ttf") format("truetype")
+}

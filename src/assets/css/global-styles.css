@@ -1,0 +1,21 @@
+body{
+   font-family: 'Lato', sans-serif;
+   font-weight: 400;
+}
+
+.bold{
+   font-weight: bold;
+}
+
+.btn-outline{
+   border: 1px solid #2F80ED;
+   border-radius: 5px;
+}
+
+.txt-uppercase{
+   text-transform: uppercase;
+}
+
+.align{
+   text-align: right;
+}
